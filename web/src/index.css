@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 20px;
+}
+header{
+    margin-top: .3rem;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.avatar{
+    display: flex;
+    justify-content: center;
+}
+
+.avatar img{
+    width: 50%;
+    border-radius: 50%;
+}
+
+.name{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro{
+    font-size: .5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    width: 100vw;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3em;
+}
+main span{
+    font-size: 2rem;
+    font-weight: bold;
+}
+main .list{
+    padding: 1rem;
+    border: 1px solid #ccc;
+    margin-top: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+main span .more{
+    font-size: .3rem;
+}
