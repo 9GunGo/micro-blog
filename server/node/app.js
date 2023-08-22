@@ -6,11 +6,11 @@ const server = http.createServer((req,res) => {
     res.statusCode = 200;
     res.setHeader('Content-Type','application/json');
     // 设置允许跨域的源
- res.setHeader("Access-Control-Allow-Origin",req.headers.origin);  
- // 设置cookie允许跨域
- res.setHeader("Access-Control-Allow-Credentials", true);  
- // 设置可以跨域的请求方法
- res.setHeader("Access-Control-Request-Method", "PUT,POST,GET,DELETE,OPTIONS");
+    res.setHeader("Access-Control-Allow-Origin",req.headers.origin);  
+    // 设置cookie允许跨域
+    res.setHeader("Access-Control-Allow-Credentials", true);  
+    // 设置可以跨域的请求方法
+    res.setHeader("Access-Control-Request-Method", "PUT,POST,GET,DELETE,OPTIONS");
 
     let resultData = [];
     resultData.push({title:'Hello',link:'Hello.html'});

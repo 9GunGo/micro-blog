@@ -1,0 +1,45 @@
+2023-08-22 15:48:20,122 ERROR 20208 [-/127.0.0.1/-/7ms GET /] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (C:\proj\micro-blog\egg-server\app\controller\home.js:13:9)
+    at Object.callFn (C:\proj\micro-blog\egg-server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\proj\micro-blog\egg-server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:45:18)
+    at C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:44:32)
+    at C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:36:12
+
+pid: 20208
+hostname: TCodeDev
+
+2023-08-22 16:02:05,698 ERROR 20604 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at get keys [as keys] (C:\proj\micro-blog\egg-server\node_modules\egg\lib\application.js:285:15)
+    at get cookies [as cookies] (C:\proj\micro-blog\egg-server\node_modules\egg\app\extend\context.js:23:66)
+    at get [egg-security#CSRF_SECRET] (C:\proj\micro-blog\egg-server\node_modules\egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (C:\proj\micro-blog\egg-server\node_modules\egg-security\app\extend\context.js:106:13)
+    at csrf (C:\proj\micro-blog\egg-server\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\proj\micro-blog\egg-server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\proj\micro-blog\egg-server\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 20604
+hostname: TCodeDev
+
+2023-08-22 16:09:53,802 ERROR 14664 [-/127.0.0.1/-/8ms GET /] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (C:\proj\micro-blog\egg-server\app\controller\home.js:13:9)
+    at Object.callFn (C:\proj\micro-blog\egg-server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\proj\micro-blog\egg-server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:45:18)
+    at C:\proj\micro-blog\egg-server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:44:32)
+    at C:\proj\micro-blog\egg-server\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14664
+hostname: TCodeDev
+

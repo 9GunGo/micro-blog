@@ -1,0 +1,21 @@
+2023-08-22 15:46:35,723 INFO 19744 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45804280ms at 2023-08-23 04:30:00.003
+2023-08-22 15:46:35,723 INFO 19744 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29604277ms at 2023-08-23 00:00:00.000
+2023-08-22 15:46:35,723 INFO 19744 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29605277ms at 2023-08-23 00:00:01.000
+2023-08-22 15:46:34,956 INFO 16336 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-22 15:46:34,957 INFO 16336 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-22 15:46:34,957 INFO 16336 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-22 15:48:08,876 INFO 20208 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-22 15:48:08,876 INFO 20208 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-22 15:48:08,876 INFO 20208 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-22 16:02:00,670 INFO 13604 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44879333ms at 2023-08-23 04:30:00.003
+2023-08-22 16:02:00,670 INFO 13604 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 28679330ms at 2023-08-23 00:00:00.000
+2023-08-22 16:02:00,670 INFO 13604 [Timer] C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28680330ms at 2023-08-23 00:00:01.000
+2023-08-22 16:02:00,552 INFO 20604 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-22 16:02:00,552 INFO 20604 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-22 16:02:00,552 INFO 20604 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-22 16:09:47,089 INFO 14664 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-22 16:09:47,089 INFO 14664 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-22 16:09:47,089 INFO 14664 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-22 16:10:41,194 INFO 21312 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-22 16:10:41,194 INFO 21312 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-22 16:10:41,194 INFO 21312 [egg-schedule]: register schedule C:\proj\micro-blog\egg-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

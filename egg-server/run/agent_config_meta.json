@@ -1,0 +1,287 @@
+{
+  "config": {
+    "keys": "C:\\proj\\micro-blog\\egg-server\\config\\config.default.js",
+    "cors": {
+      "origin": "C:\\proj\\micro-blog\\egg-server\\config\\config.default.js",
+      "allowMethods": "C:\\proj\\micro-blog\\egg-server\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultParamCharset": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "cors": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg-cors\\config\\config.default.js",
+  "env": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "keys": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "enableFastContextLogger": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "useHttpClientNext": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "meta": {
+    "enable": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\proj\\micro-blog\\egg-server\\node_modules\\egg\\config\\config.default.js"
+}
